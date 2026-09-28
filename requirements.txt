@@ -1,0 +1,5 @@
+arch
+yfinance
+pandas
+numpy
+matplotlib
